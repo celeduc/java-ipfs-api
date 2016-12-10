@@ -1,9 +1,0 @@
-*.class
-*.log
-dist/*
-target/
-
-# Scala-IDE specific
-.idea/*
-api.iml
-
