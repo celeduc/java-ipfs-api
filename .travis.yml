@@ -7,3 +7,4 @@ before_script:
   - export PATH=$PATH:$PWD/go-ipfs/
   - ipfs init
   - ipfs daemon --enable-pubsub-experiment &
+  - ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
